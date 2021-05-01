@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/general"
+        android:title="General">
+        <menu>
+            <item
+                android:id="@+id/addConfessions"
+                android:icon="@drawable/add_confession"
+                android:title="Add Confession">
+
+            </item>
+        </menu>
+    </item>
+    <item android:title="Support"
+        android:id="@+id/support">
+        <menu>
+            <item
+                android:id="@+id/github"
+                android:icon="@drawable/_5231"
+                android:title="Contribute">
+
+            </item>
+            <item
+                android:id="@+id/emailsupport"
+                android:icon="@drawable/email"
+                android:title="Email">
+
+            </item>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138281373874",
+    "project_id": "bu-confessions3",
+    "storage_bucket": "bu-confessions3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138281373874:android:4abb116efb3768dff9f9ab",
+        "android_client_info": {
+          "package_name": "com.project.confessions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138281373874-ghd9d2e3kmh0vhlmvsknoc3orjhajr7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8b7_Z6uIhlgi_La0E9dXCLGzFjzaNAtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138281373874-ghd9d2e3kmh0vhlmvsknoc3orjhajr7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
